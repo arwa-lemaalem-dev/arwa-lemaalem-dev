@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arwa Lemaalem</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=test-test&label=Profile%20views&color=0e75b6&style=flat" alt="test-test" /> </p>
+
 - 💬 Ask me about **laravel,vueJs**
 
 - 📫 How to reach me **lemaalem.arwa.dev@gmail.com**
